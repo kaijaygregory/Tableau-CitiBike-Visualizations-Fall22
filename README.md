@@ -21,10 +21,10 @@ The project utilizes trip data from September, October, and November of Fall 202
 
 ## __Dashboard Screenshots__
 
-### Dashboard 1: Description
+### Dashboard 1: 
 ![Dashboard 1](https://github.com/kaijaygregory/Tableau-CitiBike-Visualizations-Fall22/blob/main/Images/Rider%20Behavior%20and%20Preferences.png)
 
-### Dashboard 2: Description
+### Dashboard 2: 
 ![Dashboard 2](https://github.com/kaijaygregory/Tableau-CitiBike-Visualizations-Fall22/blob/main/Images/Usage%20Patterns%20and%20Trends.png)
 
 ## __Tableau Public Profile__
