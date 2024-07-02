@@ -1,4 +1,4 @@
-# __Riding Trends: Exploring Citibike Fall 2022__
+# __Riding Trends: Exploring Citi Bike Fall 2022__
 
 ## __Background__
 
